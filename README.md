@@ -23,4 +23,12 @@ The codes for the book with OneAPI and , google colab notebooks I created for my
   The final classification of features  with respected to the  4 target labels done by using  simple Ml models .
   ( by applying k-fold cv ,the accuracy get increased ) 
 
+5) oneAPI_model_traintest :
+
+   The same final classificaion(all 32 subject combained )  done before in google colab  , now done in oneAPI platform and the accuracy difference noted .
+   ( the accuracy get increased and in some cases the runtime get decreased too).
+
+
+
+(Since my system capacity is very low and due to storage issues , I execute all steps in seperate code  for my comfort ) If you have good system you will do the all steps in one same code itself .
   
